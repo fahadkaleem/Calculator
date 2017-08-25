@@ -1,0 +1,14 @@
+/*Master reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#calculator{
+    background: linear-gradient(#9dd2ea, #8bceec);
+    margin: 100px auto;
+    padding: 20px;
+    width: 325px;
+    height: auto;
+}
