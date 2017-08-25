@@ -8,8 +8,26 @@
 #calculator{
     background: linear-gradient(#9dd2ea, #8bceec);
     margin: 100px auto;
-    padding: 20px;
+    padding: 20px 20px 9px;
     width: 325px;
     height: auto;
-    border-radius: 5px;
+    border-radius: 3px;
+}
+
+.keys{
+    overflow: hidden;
+}
+
+.keys span{
+    float: left;
+    width: 66px;
+    height: 40px;
+
+    background: white;
+    border-radius: 3px;
+
+    margin: 0 7px 11px 0;
+    line-height: 40px;
+    text-align: center;
+
 }
